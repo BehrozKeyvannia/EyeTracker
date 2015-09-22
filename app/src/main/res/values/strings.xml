@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">opencvEye</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first">Eye Tracker</string>
+    <string name="startButton">Start ! </string>
+    <string name="textView1">This app helps you drive safer. Stay Focused with us ! </string>
+    <string name="offOrOnText">The truck is off </string>
+    <string name="combine_test_layout_text">New Text</string>
+
+</resources>

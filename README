@@ -1,0 +1,19 @@
+EyeTracker - Keeping Your Eyes on the Road
+==========================================
+
+EyeTracker warns the driver when they take their eyes off the road for too
+long periods of time by sounding a warning signal. It can also be reversed,
+warning the driver when they look at their phone for too long instead.
+
+EyeTracker uses the inbuilt camera of an Android phone and the free OpenCV
+library to track the face of the driver. This work fine when tracking how
+long the driver is looking at their phone. When tracking how long they look
+away from the road an external camera, mounted in front of the driver, could
+be used to improve reliability.
+
+This project requires that OpenCV (version 2.4.9) is added as a module. It can
+be downloaded here: http://opencv.org/downloads.html
+
+This is a project for the DAT255 Software Engineering Project course at
+Chalmers University of Technology, Autumn Term 2014.
+
